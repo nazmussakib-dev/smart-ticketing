@@ -40,7 +40,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-ticketing.git
+git clone https://github.com/nazmussakib-dev/smart-ticketing.git
 ```
 
 ### 2. Navigate to the Project Directory
